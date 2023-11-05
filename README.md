@@ -50,7 +50,7 @@ Gracias a una visualización efectiva, pudimos responder a nuestras preguntas in
 
 📊 **Figura 1:** Comparativa de Precios por Barrio en Barcelona
 
-![](figs\preciomedio.png)
+![](/figs/preciomedio.png)
 
 El barrio más costoso es Pedralbes, mientras que Vallbona es el más accesible.
 
@@ -58,7 +58,7 @@ El barrio más costoso es Pedralbes, mientras que Vallbona es el más accesible.
 
 📊 **Figura 2:** Correlación entre Niveles de Ruido y Precios de Alquiler
 
-![](figs\correlacionruido.png)
+![](/figs/correlacionruido.png)
 
 Se observa que no existe una relación fuerte entre el ruido y el precio del alquiler, indicando una correlación media-baja.
 
@@ -94,23 +94,23 @@ Se observa que no existe una relación fuerte entre el ruido y el precio del alq
 
 📊 **Figura 3:** Índices de Ruido Nocturno por Barrio
 
-![](figs\indiceruidonoche.png)
+![](/figs/indiceruidonoche.png)
 
 ### Relación entre Accidentes, Ruido y Precio del Alquiler 🚗🔊💲
 
 📊 **Figura 4:** Correlación entre Accidentes y Precios de Alquiler
 
-![](figs\precioaccidentes.png)
+![](/figs/precioaccidentes.png)
 
 📊 **Figura 5:** Correlación entre Niveles de Ruido y Precios de Alquiler
 
-![](figs\accidentesruido.png)
+![](/figs/accidentesruido.png)
 
 #### Tipos de Accidentes Predominantes 🚑🚒🚓
 
 📊 **Figura 6:** Tipos de Accidentes por Barrio
 
-![](figs\mapaaccidentes.png)
+![](/figs/mapaaccidentes.png)
 
 #### Mejor Barrio para Vivir🌳🏙️
 
@@ -130,7 +130,7 @@ Se observa que no existe una relación fuerte entre el ruido y el precio del alq
 
 📊 **Figura 7:** Barrios con indice de calidad de vida (ruido y accidentes)
 
-![](figs\noimportaalquiler.png)
+![](/figs/noimportaalquiler.png)
 
 ##### En base el precio del alquiler, el ruido y los accidentes 💶🔈🚑
 
@@ -148,7 +148,7 @@ Se observa que no existe una relación fuerte entre el ruido y el precio del alq
 
 📊 **Figura 8:** Barrios con indice de calidad de vida (precio, ruido y accidentes)
 
-![](figs\mismaimportancia.png)
+![](/figs/mismaimportancia.png)
 
 ## Conclusiones 📝
 
