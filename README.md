@@ -106,15 +106,15 @@ Se observa que no existe una relación fuerte entre el ruido y el precio del alq
 
 ![](/figs/accidentesruido.png)
 
-#### Tipos de Accidentes Predominantes 🚑🚒🚓
+### Tipos de Accidentes Predominantes 🚑🚒🚓
 
 📊 **Figura 6:** Tipos de Accidentes por Barrio
 
 ![](/figs/mapaaccidentes.png)
 
-#### Mejor Barrio para Vivir🌳🏙️
+### Mejor Barrio para Vivir🌳🏙️
 
-##### En base al ruido y los accidentes 🔈🚑
+#### En base al ruido y los accidentes 🔈🚑
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Se observa que no existe una relación fuerte entre el ruido y el precio del alq
 
 ![](/figs/noimportaalquiler.png)
 
-##### En base el precio del alquiler, el ruido y los accidentes 💶🔈🚑
+#### En base el precio del alquiler, el ruido y los accidentes 💶🔈🚑
 
 <div align="center">
 
